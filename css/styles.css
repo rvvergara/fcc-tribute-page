@@ -1,0 +1,59 @@
+.wrapper	{
+}
+.main-heading	{
+	font-size: 3em;
+	text-align: center;
+}
+
+h1, h3	{
+	font-family: 'Bitter', serif;
+}
+
+h3	{
+	font-size: 1.1em;
+}
+
+p	{
+	font-family: 'Encode Sans', sans-serif;
+}
+
+a	{
+	font-weight: bold;
+}
+
+a:hover	{
+	font-size: 1.2em;
+}
+
+.bent	{
+	font-style: italic;
+}
+
+.main-img	{
+}
+
+.main-content	{
+	background: beige;
+	padding: 20px;
+	margin: 15px;
+}
+
+.snapshots	{
+	margin: 0px;
+}
+
+
+.section-box	{
+	
+	background: #d8d1d1;
+	padding: 10px;
+	padding-top: 1px;
+	margin-top: 5%;
+	max-height: 320px;
+}
+
+
+.footer	{
+	margin: 15px;
+	margin-top: 30px;
+}
